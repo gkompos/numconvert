@@ -1,1 +1,2 @@
-# numconvert
+A website with a register and login page. Once the user is registered then his/her data are stored in a MySQL Database and can access the main page. From the main page, the user can navigate through the different converters, access their histories, get information regarding his account, and log out. Once the user is logged out can no longer access the main page, even if the user tries to access it from the URL bar manually. 
+Video Demonstration is provided down below.
