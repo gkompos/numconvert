@@ -7,4 +7,4 @@ Video Demonstration is provided down below. </br>
 
 </br>
 
-[![Demonstration](https://img.youtube.com/vi/5_X75FmM8Eo/maxresdefault.jpg)](https://www.youtube.com/embed/5_X75FmM8Eo) </br>
+[![Demonstration](https://img.youtube.com/vi/5_X75FmM8Eo/0.jpg)](https://www.youtube.com/embed/5_X75FmM8Eo) </br>
